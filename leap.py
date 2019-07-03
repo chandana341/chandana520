@@ -6,4 +6,4 @@ if(a % 4==0):
 
 else: 
   
-  print("No");
+  print("no");
