@@ -1,5 +1,5 @@
-a,b=map(str,input().split())
-if b in a:
+atc,btc=map(str,input().split())
+if btc in atc:
     print("yes")
 else:
     print("no")
