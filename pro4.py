@@ -7,5 +7,5 @@ while p1<len(c11):
   yas1+=(ord(c21[p1])-ord(c11[p1]))
   p1+=1
 for p1 in range(p1,len(c21)):
-  yas1+=ord(c21[p1])-ord('a1')+1
+  yas1+=ord(c21[p1])-ord('a')+1
 print(yas1)
