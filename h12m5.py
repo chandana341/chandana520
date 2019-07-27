@@ -1,4 +1,4 @@
-inpec=input()
-for i in inpec:
-    if (inpec.count(i)==1):
+insta=input()
+for i in insta:
+    if (insta.count(i)==1):
         print(i,end="")
