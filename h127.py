@@ -1,3 +1,3 @@
-k,l=map(str,input().split())
-if l in k:
-    print(l)
+ktr,ltr=map(str,input().split())
+if ltr in ktr:
+    print(ltr)
